@@ -1,1 +1,1 @@
-# mon-site-statique-il-est-bien
+# mon-site-statique
